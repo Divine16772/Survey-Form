@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    background-color: cyan;
+}
+h1{
+    text-align: center;
+    color: orange;
+}
+h3{
+    text-align: center;
+    padding: 20px;
+}
+#section{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 100px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+label{
+    font-weight: bold;
+}
+.input{
+    width: 40%;
+    padding: 5px;
+}
+#list{
+    width: 40%;
+    padding: 5px;
+}
+fieldset{
+    border: 0;
+}
+textarea{
+    padding: 10px;
+}
+.submit{
+    width: 40%;
+    font-weight: bold;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    margin-left: 30%;
+    border-radius: 10px;
+}
+#answer_section{
+    background-color: cyan;
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.php-section{
+    text-align: center;
+    padding: 10px;
+    line-height: 30px;
+}
